@@ -1,0 +1,3 @@
+La carpeta Angular 10 Crud es el Front End
+La carperta node-express-mongoDB Back-end
+
